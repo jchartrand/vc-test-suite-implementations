@@ -130,6 +130,9 @@ StatusList2021 - This tag will run the [Status List 2021 tests](https://github.c
 
 did-key - This tag will run the [DID Key Test Suite](https://github.com/w3c-ccg/did-key-test-suite) on your did resolver endpoint.
 
+vc2.0 - This tag will run the [Verifiable Credentials Data Model 2.0 Suite]() on your issuers and verifiers.
+
+
 ## Contribute
 
 See [the contribute file](https://github.com/digitalbazaar/bedrock/blob/master/CONTRIBUTING.md)!
