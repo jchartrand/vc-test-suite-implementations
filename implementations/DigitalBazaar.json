@@ -83,5 +83,10 @@
     "id": "",
     "endpoint": "https://qa.veresresolver.dev/1.0/identifiers/resolve",
     "tags": ["did-key"]
+  }],
+  "vcHolders": [{
+    "id": "https://vcholder.vcplayground.org",
+    "endpoint": "https://vcholder.vcplayground.org/derive",
+    "tags": ["vcHolder"]
   }]
 }
